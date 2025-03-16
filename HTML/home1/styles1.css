@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    background-color: #cde4ed;
+    /*background-image: url("seas.jpg");*/
+    /*background-size:cover;*/
+    /*background-repeat: no-repeat;*/
+
+}
+.brain{
+    display:flex;
+    text-align: left;
+}
+.left1{
+    top: 10px;
+}
+.one{
+    font-size: 30px;
+}
+.left1{
+    float: left;
+    padding: 3px;
+}
+.table1{
+    background-color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-top: 40px solid #e2f7ff;
+    width: 650px;
+    margin: auto;
+    padding: 90px;
+}
+#table2{
+    text-align: left;
+    margin-left: 5px;
+}
+.abc12{
+    height: 20vh;
+    display: flex;
+}
+.images1{
+    padding: 1px;
+    box-sizing: border-box;
+    float: left;
+    
+}
+.text{
+    color:rgb(144, 144, 144);
+}
